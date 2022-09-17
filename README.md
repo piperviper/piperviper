@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @piperviper
-- 👀 I’m interested in ... Spreadsheets, Record-keeping/Archiving, Documentation, Finance, Games  
-- 🌱 I’m currently learning ... everything I ever do, really  -Python, Scala, JavaScript, React, Git, Apache Subversion
+- 👀 I’m interested in ... Spreadsheets, Record-keeping/Archiving, Documentation, Finance, Logic Puzzles, Games, Networking
+- 🌱 I’m currently learning ... everything I ever do, really  -Python, Scala, Java, C#, JavaScript, React, Git, SQL, Apache Subversion, PHP, HTML/CSS
 - 💞️ I’m looking to collaborate on ... Things that interest me primarily. Also enjoy assisting others when I'm able to be helpful.
-- 📫 How to reach me ... twitter: @_piperviper_ reddit: u/piperviper
+- 📫 How to reach me ... reddit: u/piperviper twitter: @_piperviper_ 
 
 <!---
 piperviper/piperviper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
